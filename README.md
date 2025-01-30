@@ -40,9 +40,3 @@ This project was initialized as a new Node.js application with version control a
    node index.js
    
 
-## 📜 License
-This project is open-source and can be modified as needed.
-
----
-
-Feel free to update this README with more details as your project progresses! 🚀
